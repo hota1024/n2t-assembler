@@ -56,5 +56,8 @@
     "moduleNameMapper": {
       "^@/(.+)": "<rootDir>/src/$1"
     }
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
   }
 }
